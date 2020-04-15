@@ -1,0 +1,39 @@
+.card{
+    max-width: 350px;
+
+    
+}
+.card-body{
+    min-height:75vh;
+    flex-direction: column;
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+    color: #ff8c00;
+    font-weight: 100;
+}
+
+#add {
+    background-color: #ff8c00;
+    color: white;
+}
+
+
+.btn-circle {
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    position: absolute;
+    top: 55px;
+    right: 10px;
+    font-size: 30px ;
+    
+}
+
+.list-group-item{
+    border-left-style: solid;
+    border-left-color:#ff8c00;
+    border-left-width: thick;
+}
